@@ -1,6 +1,6 @@
-dev add(a,b):
+def add(a,b):
 return a+b
-dev subtract(a,b):
+def subtract(a,b):
 return a-b
-dev multiply(a,b):
+def multiply(a,b):
 return a*b
