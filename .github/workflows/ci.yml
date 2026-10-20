@@ -20,7 +20,7 @@ jobs:
       - name: Check Python code syntax
         run: |
           echo "Building application..."
-          python -m py_compile app.py
+          python -m py_compile calculator.py
 
   test:
     name: Test Stage
